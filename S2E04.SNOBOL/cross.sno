@@ -1,0 +1,17 @@
+        &TRIM = 1
+AGAIN   OUTPUT = 'ENTER HORIZONTAL WORD:'
+        H = INPUT                       :F(END)
+        OUTPUT = 'ENTER VERTICAL WORD:'
+        V = INPUT                       :F(END)
+        HC = H
+NEXTH   HC @NH ANY(V) . CROSS = '*'     :F(AGAIN)
+        VC = V
+NEXTV   VC @NV CROSS = '#'              :F(NEXTH)
+        OUTPUT =
+        PRINTV = V
+        PRINTV POS(NV) LEN(1) = '#'
+
+PRINT   PRINTV LEN(1) . C =             :F(NEXTV)
+        OUTPUT = DIFFER(C, '#') DUPL(' ', NH) C     :S(PRINT)
+        OUTPUT = H                      :(PRINT)
+END
