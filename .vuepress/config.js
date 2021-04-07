@@ -9,8 +9,9 @@ module.exports = {
     title: '编程语言简史',
     themeConfig: {
         nav: [
+            {text: "开始", link: "/getting-started.md"},
             {text: "连载", link: 'https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0OTQxNjQ4MA==&action=getalbum&album_id=1338601286555598848&scene=173'},
-            {text: "实例", link: '/examples/'},
+            {text: "示例", link: '/examples/'},
             {text: "资源", link: '/resources/'},
             {text: "反馈", link: 'https://github.com/kenpusney/bhpl/issues'},
         ],
@@ -22,9 +23,6 @@ module.exports = {
                 ...examplePages,
             ],
         },
-
-        nextLinks: false,
-        prevLinks: false,
         search: false,
     },
     markdown: {

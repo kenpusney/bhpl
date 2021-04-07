@@ -14,4 +14,6 @@ sidebar: false
 - [示例](/examples/)
 - [资源](/resources/)
 
+对于任何资源链接过期或者勘误等内容，你可以通过点击导航栏“[反馈](https://github.com/kenpusney/bhpl/issues)”告知。
+
 在我的 [Wiki](https://wiki.kimleo.net) 上有另外一些与之相关内容，包括在创作中的草稿和补充信息等，也欢迎访问查阅。
