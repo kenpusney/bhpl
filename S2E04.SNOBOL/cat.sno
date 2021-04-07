@@ -1,5 +1,0 @@
-        N = 0
-COPY    OUTPUT = INPUT      :F(DONE)
-        N = N + 1           :(COPY)
-DONE    OUTPUT = 'There were ' N ' lines.'
-END

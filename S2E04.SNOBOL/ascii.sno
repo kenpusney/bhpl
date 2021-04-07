@@ -1,4 +1,0 @@
-    CHAR = 'A'
-    &ALPHABET @N CHAR
-    OUTPUT = N
-END
