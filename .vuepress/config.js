@@ -12,7 +12,7 @@ module.exports = {
             {text: "连载", link: 'https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0OTQxNjQ4MA==&action=getalbum&album_id=1338601286555598848&scene=173'},
             {text: "实例", link: '/examples/'},
             {text: "资源", link: '/resources/'},
-            {text: "资源", link: '/resources/'},
+            {text: "反馈", link: 'https://github.com/kenpusney/bhpl/issues'},
         ],
 
         sidebar: {
