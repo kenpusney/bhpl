@@ -51,6 +51,7 @@
 - [📄 The main features of CPL](http://www.math.bas.bg/bantchev/place/cpl/features.pdf)
 - [📄 Techical Report - CPL Working Papers, July 1966](http://www.ancientgeek.org.uk/CPL/CPL_Working_Papers.pdf)
 - [📄 Fundamental Concepts in Programming Languages - Christopher Strachey](http://www.cs.cmu.edu/~crary/819-f09/Strachey67.pdf)
+- [📄 A Foreword to "Fundamental Concepts in Programming Languages"](https://www.cs.tufts.edu/~nr/cs257/archive/christopher-strachey/forward.pdf)
 - [📄 Project MAC Memorandum-M-352: The BCPL Reference Manual](https://www.bell-labs.com/usr/dmr/www/bcpl.pdf)
 - [📄 The BCPL Cintsys and Cintpos User Guide - Martin Richard](https://www.cl.cam.ac.uk/~mr10/bcplman.pdf)
 - [📄 Time sharing in large fast computers - Christopher Strachey, 1959](https://archive.org/details/large-fast-computers)
