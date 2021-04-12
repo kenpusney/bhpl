@@ -1,5 +1,7 @@
 # CPL
 
+暂未找到可用的 CPL 工具链。以下内容整理自论文 *The main features of CPL*。论文可在[资源](/resources)页面下载。
+
 ## Fact 阶乘
 
 ```cpl
