@@ -68,29 +68,29 @@ $$
 
 $$
 \begin{aligned}
-&a + 1 \rarr a \\
-&a \times 2 \rarr a \\
-&i + a \rarr i \\
-&i \times a \rarr i \\
-&s + i \rarr s \\
-&s \times i = i^{a+1} \rarr i^{a} = s \\
+&a + 1 \rightarrow a \\
+&a \times 2 \rightarrow a \\
+&i + a \rightarrow i \\
+&i \times a \rightarrow i \\
+&s + i \rightarrow s \\
+&s \times i = i^{a+1} \rightarrow i^{a} = s \\
 \end{aligned}
 $$
 
 而对于无穷量 $\infty$，则可以吸收任意的量。即$\forall n \in \{ 0, 1 ... a, i, s \}$
 $$
-\infty + n \rarr \infty \\
-\infty \times n \rarr \infty \\
+\infty + n \rightarrow \infty \\
+\infty \times n \rightarrow \infty \\
 $$
 
 ### 极限情况下的化简规则\*
 
 在**某些情况**下，下面的规则适用：
-$$2^{a} \rarr i \tag{1}$$
-$$a^{a} \rarr s \tag{2}$$
-$$s^{a} \rarr \infty \tag{3}$$
-$$s^{i} \rarr \infty \tag{4}$$
-$$i^{s} \rarr \infty \tag{5}$$
+$$2^{a} \rightarrow i \tag{1}$$
+$$a^{a} \rightarrow s \tag{2}$$
+$$s^{a} \rightarrow \infty \tag{3}$$
+$$s^{i} \rightarrow \infty \tag{4}$$
+$$i^{s} \rightarrow \infty \tag{5}$$
 
 我们来单独看每个公式表示的含义：
 - 公式 $(1)$ 中，因为 i 本身就表示的特定二进制位数的标量量级，这项化简符合其定义。
@@ -108,7 +108,7 @@ $$\infty \gt n$$
 其次，同次数的无穷大量，系数大的数值大于系数小的。
 $$
 \begin{aligned}
-x \gt y \rArr \\ 
+x \gt y \Rightarrow \\ 
 &x \cdot \infty^{n} \gt y \cdot \infty^{n}
 \end{aligned}
 $$
@@ -116,7 +116,7 @@ $$
 不同次数的无穷大量，次数越大其数值越大，系数不影响：
 $$ 
 \begin{aligned}
-x \gt y \rArr \\
+x \gt y \Rightarrow \\
 & m \cdot \infty^{x} \gt n \cdot \infty^{y} 
 \end{aligned}
 $$
@@ -125,7 +125,7 @@ $$
 
 $$ 
 \begin{aligned}
-x \gt y \rArr \\
+x \gt y \Rightarrow \\
 &m \cdot \infty^{n} + x > m \cdot \infty^{n} + y 
 \end{aligned}
 $$
@@ -236,7 +236,7 @@ $$
 $$
 \begin{aligned}
 P(D) &= i^{4}s + i^{5}s +i^{4}s^{2} \\
-&\rarr s^{2}
+&\rightarrow s^{2}
 \end{aligned}
 $$
 
