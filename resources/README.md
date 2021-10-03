@@ -18,13 +18,7 @@
 - [Wikipedia](https://en.wikipedia.org/)
 - 软件保护小组 [Software Preservation Group](http://www.softwarepreservation.org/)
 
-## 📚 书籍 Books
-
-- [📚 A Programming Language - Kenneth Iverson, 1962](http://www.softwarepreservation.org/projects/apl/Books/APROGRAMMING%20LANGUAGE/view) [📚另一个版本](https://www.jsoftware.com/papers/APL.htm)
-- [📚 The SNOBOL4 Programming Language (2nd Edition)](http://worrydream.com/refs/Griswold-TheSnobolProgrammingLanguage.pdf)
-- [📚 BCPL - The Language and it's compiler](https://archive.org/details/richards1979bcpl)
-
-## 📄 论文 Paper
+## 📚 书籍 & 📄 论文 Books & Papers
 
 ### 概述性论文
 
@@ -32,7 +26,10 @@
 
 ### LISP
 
+- [📚 A Programming Language - Kenneth Iverson, 1962](http://www.softwarepreservation.org/projects/apl/Books/APROGRAMMING%20LANGUAGE/view) [📚另一个版本](https://www.jsoftware.com/papers/APL.htm)
 - [📄 The Evolution of Lisp, HOPL II](https://www.dreamsongs.com/Files/HOPL2-Uncut.pdf)
+- [🌐 History of Lisp - John McCarthy](http://www-formal.stanford.edu/jmc/history/lisp/lisp.html)
+- [🌐 SICP: Foreword](https://web.archive.org/web/20010727170154/http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-5.html)
 
 ### ALGOL
 
@@ -46,6 +43,21 @@
 
 - [📄 Common Base Language](https://web.archive.org/web/20131225084408/http://www.edelweb.fr/Simula/scb-1.pdf)
 
+### APL & J
+
+- [🌐 APL Quotations & Anecdotes](https://www.jsoftware.com/papers/APLQA.htm)
+- [🌐 J Help System](https://www.jsoftware.com/help/index.htm)
+
+### SNOBOL
+
+- [🌐 SNOBOL4 Resources](http://www.snobol4.org/)
+- [📚 The SNOBOL4 Programming Language (2nd Edition)](http://worrydream.com/refs/Griswold-TheSnobolProgrammingLanguage.pdf)
+- [📄 A history of SNOBOL Programming Languages - 1978](https://web.archive.org/web/20190302233559/http://pdfs.semanticscholar.org/a404/c09b14e2b03496604387f532fd33975179ec.pdf)
+
+### P''
+
+- *📄 On a family of Turing machines and the related programming language*
+
 ### CPL & BCPL
 
 - [📄 The main features of CPL](http://www.math.bas.bg/bantchev/place/cpl/features.pdf)
@@ -55,6 +67,7 @@
 - [📄 [M-352] The BCPL Reference Manual - Project MAC Memorandum](https://www.bell-labs.com/usr/dmr/www/bcpl.pdf)
 - [📄 The BCPL Cintsys and Cintpos User Guide - Martin Richard](https://www.cl.cam.ac.uk/~mr10/bcplman.pdf)
 - [📄 Time sharing in large fast computers - Christopher Strachey, 1959](https://archive.org/details/large-fast-computers)
+- [📚 BCPL - The Language and it's compiler](https://archive.org/details/richards1979bcpl)
 
 ### JOSS
 
@@ -64,16 +77,18 @@
 - [📄 [R-918] The JOSS Year: Reflection on an Experiment - Dec 1971](https://www.rand.org/content/dam/rand/pubs/reports/2008/R918.pdf)
 - [📄 Rand and the Information Evolution - A History in Essays and Vignettes](https://www.rand.org/content/dam/rand/pubs/corporate_pubs/2008/RAND_CP537.pdf)
 
-## 🌐 网页 Web Pages
 
-### LISP
+### Atlas Autocode
 
-- [🌐 History of Lisp - John McCarthy](http://www-formal.stanford.edu/jmc/history/lisp/lisp.html)
-- [🌐 SICP: Foreword](https://web.archive.org/web/20010727170154/http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-5.html)
-### APL & J
+- [📄 Programming in Atlas Autocode - 1956](https://web.archive.org/web/20110721125558/http://compsoc.nuigalway.ie/~bfoley/edhist/CU-Rep-1-AA/CU-Rep-1-AA.html) [PDF 扫描版本](https://web.archive.org/web/20200515162223/http://history.dcs.ed.ac.uk/archive/docs/CU-Rep-1-AA.pdf)
 
-- [🌐 APL Quotations & Anecdotes](https://www.jsoftware.com/papers/APLQA.htm)
-- [🌐 J Help System](https://www.jsoftware.com/help/index.htm)
+### ALGOL W
 
-### SNOBOL
-- [🌐 SNOBOL4 Resources](http://www.snobol4.org/)
+- [📄 A contribution to the development of ALGOL](https://dl.acm.org/doi/10.1145/365696.365702)
+- [📄 ALGOL W Language Description](https://web.archive.org/web/20121119115827/http://www.jampan.co.nz/~glyn/algolw.pdf)
+- [🌐 ALGOL W Set of Program](http://www.algol60.org/15algolwlego.htm)
+### ISWIM
+
+- [📄 The Mechanical Evaluation of Expressions - 1964](https://doi.org/10.1093/comjnl/6.4.308)
+- [📄 Correspondence between ALGOL 60 and Church's Lambda-notation: part I - 1965](https://dl.acm.org/doi/10.1145/363744.363749)
+- [📄 The Next 700 Programming Languages - 1966](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf)
