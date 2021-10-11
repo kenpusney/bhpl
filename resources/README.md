@@ -56,7 +56,7 @@
 
 ### P''
 
-- *📄 On a family of Turing machines and the related programming language*
+- [📄 On a family of Turing machines and the related programming language](https://www.ic.unicamp.br/~stolfi/temp/ICC_Bulletin_v3_UNICAMP.pdf)
 
 ### CPL & BCPL
 
